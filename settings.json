@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TablesaltSMP.aternos.me:50437",
+    "ip": "TablesaltSMP.aternos.me",
     "port": 50437,
     "version": "",
     "try-creative": false
