@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "TablesaltSMP.aternos.me:50437",
+    "port": 50437,
     "version": "",
     "try-creative": false
   },
